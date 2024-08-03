@@ -1,0 +1,21 @@
+{
+  "name": "@ghafoor68/cli-number-guessing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Ghafoor",
+  "license": "ISC",
+  "keywords": [],
+  "description": "This is cli based numbers guessing game",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.11"
+  },
+  "dependencies": {
+    "inquirer": "^10.0.2"
+  }
+}
